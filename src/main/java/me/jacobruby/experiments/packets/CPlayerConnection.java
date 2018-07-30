@@ -1,6 +1,6 @@
-package me.jacobruby.packets;
+package me.jacobruby.experiments.packets;
 
-import me.jacobruby.util.ReflectionUtil;
+import me.jacobruby.experiments.util.ReflectionUtil;
 import net.minecraft.server.v1_8_R3.*;
 
 public class CPlayerConnection extends PlayerConnection {

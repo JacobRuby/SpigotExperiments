@@ -33,7 +33,7 @@
                 <configuration>
                     <archive>
                         <manifestEntries>
-                            <ModuleMain>me.jacobruby.Experiments</ModuleMain>
+                            <ModuleMain>me.jacobruby.experiments.Experiments</ModuleMain>
                         </manifestEntries>
                     </archive>
                 </configuration>

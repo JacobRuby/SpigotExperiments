@@ -1,4 +1,4 @@
-package me.jacobruby.util;
+package me.jacobruby.experiments.util;
 
 import java.lang.reflect.Field;
 

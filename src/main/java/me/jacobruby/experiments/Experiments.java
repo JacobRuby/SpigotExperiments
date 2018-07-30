@@ -1,6 +1,6 @@
-package me.jacobruby;
+package me.jacobruby.experiments;
 
-import me.jacobruby.packets.CPlayerConnection;
+import me.jacobruby.experiments.packets.CPlayerConnection;
 import net.minecraft.server.v1_8_R3.EntityPlayer;
 import net.minecraft.server.v1_8_R3.MinecraftServer;
 import org.bukkit.Bukkit;
